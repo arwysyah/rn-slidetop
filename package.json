@@ -1,0 +1,26 @@
+{
+  "name": "yes",
+  "version": "1.0.0",
+  "description": "react native for handling slide navigation with swipe or press ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arwysyah/rn-slidetop.git"
+  },
+  "keywords": [
+    "javascript",
+    "react-native",
+    "slide",
+    "react-native-slide",
+    "swipebutton"
+  ],
+  "author": "arwy syahputra siregar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arwysyah/rn-slidetop/issues"
+  },
+  "homepage": "https://github.com/arwysyah/rn-slidetop#readme"
+}
