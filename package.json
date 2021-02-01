@@ -1,6 +1,6 @@
 {
   "name": "rn-slidetop",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "react native for handling slide navigation with swipe or press ",
   "main": "index.js",
   "scripts": {
