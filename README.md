@@ -224,6 +224,11 @@ https://www.npmjs.com/package/rn-topbutton-animation
     <img src="assets/slide2.gif" width=200 height=300/>
 </p> -->
 
+## Note
+
+Not quite good performance speed
+
+
 - Author Account
 
 ```bash
